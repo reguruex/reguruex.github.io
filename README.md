@@ -1,2 +1,2 @@
-# reguruex.github.io
-ポートフォリオ
+これはポートフォリオサイトのソースです
+https://reguruex.github.io/
